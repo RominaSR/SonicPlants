@@ -21,3 +21,6 @@
    Open a terminal in this folder and run:
    ```bash
    pip install -r requirements.txt
+4. Click **Rec** to start recording, **Stop** to end.
+5. Adjust **threshold** as needed with potentiometer.
+6. Enable or disable **MIDI** output.
