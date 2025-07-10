@@ -1,0 +1,3 @@
+pyqtgraph
+python-rtmidi
+numpy
